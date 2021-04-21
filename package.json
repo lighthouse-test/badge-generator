@@ -9,7 +9,7 @@
   "repository": "https://github.com/lighthouse-test/badge-generator.git",
   "homepage": "https://github.com/lighthouse-test/badge-generator#readme",
   "bin": {
-    "badgen": "index.js"
+    "lighthouse-badge-generator": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
