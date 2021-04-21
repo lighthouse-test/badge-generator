@@ -7,9 +7,9 @@ let reportsPath = process.argv[2];
 
 // Check if path for reports folder is provided, if not use current directory
 if (!reportsPath) {
-  reportsPath = path.join(__dirname);
+  reportsPath = path.join(process.cwd());
 } else {
-  reportsPath = path.join(__dirname, reportsPath)
+  reportsPath = path.join(process.cwd(), reportsPath)
 }
 
 // Categories for which we want to create badges
