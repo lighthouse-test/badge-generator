@@ -1,0 +1,41 @@
+[
+  {
+    "url": "http://localhost:35659/index.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/lighthouse/lighthouse/dist/_lighthouse/_index_html.report.html",
+    "jsonPath": "/home/runner/work/lighthouse/lighthouse/dist/_lighthouse/_index_html.report.json",
+    "summary": {
+      "performance": 0.91,
+      "accessibility": 0.91,
+      "best-practices": 1,
+      "seo": 0.82,
+      "pwa": 0.3
+    }
+  },
+  {
+    "url": "http://localhost:35659/index.html",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/lighthouse/lighthouse/dist/_lighthouse/_index_html.report.html",
+    "jsonPath": "/home/runner/work/lighthouse/lighthouse/dist/_lighthouse/_index_html.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.91,
+      "best-practices": 1,
+      "seo": 0.82,
+      "pwa": 0.3
+    }
+  },
+  {
+    "url": "http://localhost:35659/index.html",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/lighthouse/lighthouse/dist/_lighthouse/_index_html.report.html",
+    "jsonPath": "/home/runner/work/lighthouse/lighthouse/dist/_lighthouse/_index_html.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.91,
+      "best-practices": 1,
+      "seo": 0.82,
+      "pwa": 0.3
+    }
+  }
+]

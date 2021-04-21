@@ -1,0 +1,20 @@
+{
+  "name": "@lighthouse-test/badge-generator",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aceonics Reliable IT Services",
+    "email": "info@aceonics.com"
+  },
+  "description": "Badge Generator for lighthouse",
+  "repository": "https://github.com/lighthouse-test/badge-generator.git",
+  "homepage": "https://github.com/lighthouse-test/badge-generator#readme",
+  "bin": {
+    "badgen": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "badgen": "^3.2.2"
+  }
+}
