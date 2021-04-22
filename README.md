@@ -21,7 +21,7 @@
 ## Install
 
 ```sh
-yarn install
+yarn install --dev @lighthouse-test/badge-generator
 ```
 
 ## Usage
@@ -36,8 +36,8 @@ lighthouse-badge-generator <path/to/lighthouse/reports>
 
 * Website: https://www.aceonics.com
 * Twitter: [@aceonics](https://twitter.com/aceonics)
-* Github: [@aceonics](https://github.com/aceonics)
-* LinkedIn: [@aceonics](https://linkedin.com/company/aceonics)
+* Github: [aceonics](https://github.com/aceonics)
+* LinkedIn: [aceonics](https://linkedin.com/company/aceonics)
 
 ## 🤝 Contributing
 
