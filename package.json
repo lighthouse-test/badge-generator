@@ -14,14 +14,26 @@
   "bugs": {
     "url": "https://github.com/lighthouse-test/badge-generator/issues"
   },
-  "license" : "MIT",
+  "license": "MIT",
+  "keywords": [
+    "badge",
+    "svg",
+    "lighthouse",
+    "lighthouse badge",
+    "badge generator",
+    "svg badge geerator",
+    "lighthouse badge generator"
+  ],
   "bin": {
     "lighthouse-badge-generator": "index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "standard index.js"
   },
   "dependencies": {
     "badgen": "^3.2.2"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
   }
 }

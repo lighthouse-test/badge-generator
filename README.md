@@ -40,7 +40,7 @@ lighthouse-badge-generator <path/to/lighthouse/reports>
 
 👤 **Aceonics Reliable IT Services**
 
-- Website: https://www.aceonics.com
+- Website: [https://www.aceonics.com](https://www.aceonics.com)
 - Twitter: [@aceonics](https://twitter.com/aceonics)
 - Github: [aceonics](https://github.com/aceonics)
 - LinkedIn: [aceonics](https://linkedin.com/company/aceonics)
