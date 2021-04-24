@@ -1,6 +1,6 @@
 {
   "name": "@lighthouse-test/badge-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Aceonics Reliable IT Services",
     "email": "info@aceonics.com"
@@ -25,10 +25,10 @@
     "lighthouse badge generator"
   ],
   "bin": {
-    "lighthouse-badge-generator": "index.js"
+    "lighthouse-badge-generator": "cli.js"
   },
   "scripts": {
-    "lint": "standard index.js"
+    "lint": "standard cli.js"
   },
   "dependencies": {
     "badgen": "^3.2.2"
